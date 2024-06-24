@@ -8,7 +8,8 @@ El Ministerio para el Bienestar Emocional (**MBE**), organismo dependiente de la
 
 El ser humano medio no tiene la capacidad de elegir/manejar sus emociones conforme a lo necesario para un mundo y convivencia adecuados, por lo que la UDBC, a través del MBE y siguiendo las obligaciones morales, monitoreará dichas emociones con ayuda del modelo de aprendizaje automático que presentamos en este readme. Gracias al sistema conectado de cámaras de cuidados de la población, esta puede ser monitoreada mientras se desplaza en sus cápsulas de transporte unipersonal, mientras trabaja en sus cubículos laborales, en los ascensores y, en general, en todos los aspectos de la vida. Cuando una expresión detectada no concuerde con lo necesario para la armonía y el bienestar, una sustancia será administrada por los aspersores ambientales y/o las fuentes de bebidas refrescantes. 
 
-<img src="Imagenes/MBE.jpg" width="200">
+<img src="Imagenes/MBE.jpg" alt="Logotipo de MBE" width="200">
+
 
 
 Para el entrenamiento de dicho modelo se empleará el dataset [“FER-2013 (Facial Expression Recognition 2013)”](https://www.kaggle.com/datasets/msambare/fer2013)
