@@ -23,7 +23,7 @@ El ser humano medio no tiene la capacidad de elegir/manejar sus emociones confor
 Para el entrenamiento de dicho modelo se empleará el dataset [“FER-2013 (Facial Expression Recognition 2013)”](https://www.kaggle.com/datasets/msambare/fer2013)
 , el cual contiene 35,887 imágenes en escala de grises de rostros de tamaño 48x48 píxeles. Etiquetadas con siete emociones: ira, disgusto, miedo, felicidad, tristeza, sorpresa y neutro, este era, según ChatGPT (el predecesor del actual “Pensamiento Descentralizado”), un dataset popular en la comunidad de investigación en reconocimiento de emociones faciales.
 
-Una vez el programa sepa la emoción que el individuo siente, a este se le administrará una sustancia según la siguinte tabla.
+Una vez el programa sepa la emoción que el individuo siente, a este se le administrará una sustancia según algunos criterios.
 
 <table>
     <thead>
@@ -41,11 +41,11 @@ Una vez el programa sepa la emoción que el individuo siente, a este se le admin
         </tr>
         <tr>
             <td align="center">Enojo</td>
-            <td align="center">H</td>
+            <td align="center">IRAXCITUR</td>
         </tr>
         <tr>
             <td align="center">Asco</td>
-            <td align="center">O</td>
+            <td align="center">CLOROCHOLEXSINA</td>
         </tr>
         <tr>
             <td align="center">Miedo</td>
@@ -74,7 +74,7 @@ Una vez el programa sepa la emoción que el individuo siente, a este se le admin
         </tr>
         <tr>
             <td align="center">Asco</td>
-            <td align="center">P</td>
+            <td align="center">METACHOLEXSINA</td>
         </tr>
         <tr>
             <td align="center">Miedo</td>
@@ -132,7 +132,7 @@ Una vez el programa sepa la emoción que el individuo siente, a este se le admin
         </tr>
         <tr>
             <td align="center">Asco</td>
-            <td align="center">R</td>
+            <td align="center">METACHOLEXSINA</td>
         </tr>
         <tr>
             <td align="center">Miedo</td>
@@ -157,11 +157,11 @@ Una vez el programa sepa la emoción que el individuo siente, a este se le admin
         </tr>
         <tr>
             <td align="center">Enojo</td>
-            <td align="center">L</td>
+            <td align="center">IRAXCITUR</td>
         </tr>
         <tr>
             <td align="center">Asco</td>
-            <td align="center">S</td>
+            <td align="center">CLOROCHOLEXSINA</td>
         </tr>
         <tr>
             <td align="center">Miedo</td>
@@ -190,7 +190,7 @@ Una vez el programa sepa la emoción que el individuo siente, a este se le admin
         </tr>
         <tr>
             <td align="center">Asco</td>
-            <td align="center">T</td>
+            <td align="center">METACHOLEXSINA</td>
         </tr>
         <tr>
             <td align="center">Miedo</td>
@@ -219,11 +219,11 @@ Una vez el programa sepa la emoción que el individuo siente, a este se le admin
         </tr>
         <tr>
             <td align="center">Asco</td>
-            <td align="center">U</td>
+            <td align="center">CLOROCHOLEXSINA</td>
         </tr>
         <tr>
             <td align="center">Miedo</td>
-            <td align="center">AB</td>
+            <td align="center">IRAXCITUR</td>
         </tr>
         <tr>
             <td align="center">Felicidad</td>
@@ -239,3 +239,4 @@ Una vez el programa sepa la emoción que el individuo siente, a este se le admin
         </tr>
     </tbody>
 </table>
+
