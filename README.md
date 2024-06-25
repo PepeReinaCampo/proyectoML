@@ -17,9 +17,13 @@ El ser humano medio no tiene la capacidad de elegir/manejar sus emociones confor
 
 >Logotipo de MBE
 
-Para el entrenamiento del modelo que reconoce la emoción se empleará el dataset ["FER-2013 (Facial Expression Recognition 2013)"](https://www.kaggle.com/datasets/msambare/fer2013), el cual contiene 35,887 imágenes en escala de grises. Las imágenes son fotografías casi exclusivamente de rostros, de tamaño 48x48 píxeles y están etiquetadas con siete emociones: ira, disgusto, miedo, felicidad, tristeza, sorpresa y neutro. Este dataset fue popular en la comunidad de investigación en reconocimiento de emociones faciales durante la era de ChatGPT, el predecesor del actual 'Pensamiento Descentralizado'.
+Para el entrenamiento del modelo que reconoce la emoción se empleará el dataset ["FER-2013 (Facial Expression Recognition 2013)"](https://www.kaggle.com/datasets/msambare/fer2013), el cual contiene 35,887 imágenes en escala de grises. Las imágenes son fotografías casi exclusivamente de rostros, de tamaño 48x48 píxeles y están etiquetadas con siete emociones: 'Asco', 'Enojo', 'Felicidad', 'Miedo', 'Sorpresa', 'Tristeza' y 'Neutral'. Este dataset fue popular en la comunidad de investigación en reconocimiento de emociones faciales durante la era de ChatGPT, el predecesor del actual 'Pensamiento Descentralizado'.
 
-La cúpula de **OAI** nos ha solicitado que cualquier dataset sea estudiado y explicado de forma clara. Por ello, en el notebook **"EDA_FER2013"** se ha analizado el dataset "FER2013". Además, los comandos utilizados para generar las imágenes mostradas en el presente informe están indicados en el archivo "PROMPTS".
+La cúpula de **OAI** nos ha solicitado que cualquier dataset sea estudiado y explicado de forma clara. Por ello, en el notebook **"EDA_FER2013"** se ha analizado el dataset "FER2013". El modelado y entrenamiento de este se ha realizado en el Jupyter Notebook **"Modelado_emociones"**, se ha probado además con las imágenes de la carpeta **"Imagenes_prueba_emociones"**, estando estas en su mayoría generadas por inteligencia artificial generativa. El modelo entrenado se ha guardado en la carpeta **"Modelos_entrenados"**.
+
+La fase que reconoce el grupo social (Hombre, mujer, niño o niña) está aún en fase de desarrollo, permanece atento para los cambios.
+
+Además, los comandos utilizados para generar las imágenes mostradas en el presente informe están indicados en el archivo "PROMPTS".
 
 
 <img src="Imagenes/OAI.jpg" alt="Logotipo de MBE" width="150">  
