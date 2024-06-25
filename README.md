@@ -48,7 +48,7 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Enojo</td>
-            <td align="center">IRAXCITUR</td>
+            <td align="center">VELOCET</td>
         </tr>
         <tr>
             <td align="center">Asco</td>
@@ -56,19 +56,19 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Miedo</td>
-            <td align="center">V</td>
+            <td align="center">DIMETIL-NEPTODEXTROXIDO</td>
         </tr>
         <tr>
             <td align="center">Felicidad</td>
-            <td align="center">AC</td>
+            <td align="center">LIQUALENSINA</td>
         </tr>
         <tr>
             <td align="center">Tristeza</td>
-            <td align="center">AJ</td>
+            <td align="center">OXSOMA-BUTIL</td>
         </tr>
         <tr>
             <td align="center">Sorpresa</td>
-            <td align="center">AQ</td>
+            <td align="center">2-10-EMEDIOXINA</td>
         </tr>
         <tr>
             <td rowspan="7" align="center">Enojo</td>
@@ -106,7 +106,7 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Enojo</td>
-            <td align="center">J</td>
+            <td align="center">SYNTHEISITISEINA</td>
         </tr>
         <tr>
             <td align="center">Asco</td>
@@ -118,7 +118,7 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Felicidad</td>
-            <td align="center">AE</td>
+            <td align="center">LIQUALENSINA</td>
         </tr>
         <tr>
             <td align="center">Tristeza</td>
@@ -135,7 +135,7 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Enojo</td>
-            <td align="center">K</td>
+            <td align="center">KOROBININA</td>
         </tr>
         <tr>
             <td align="center">Asco</td>
@@ -147,7 +147,7 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Felicidad</td>
-            <td align="center">AF</td>
+            <td align="center">LIQUALENSINA</td>
         </tr>
         <tr>
             <td align="center">Tristeza</td>
