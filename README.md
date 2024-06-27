@@ -57,7 +57,7 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Enojo</td>
-            <td align="center">VELOCET</td>
+            <td align="center">DIMETOVELOCETINA-BUTIL</td>
         </tr>
         <tr>
             <td align="center">Asco</td>
@@ -82,7 +82,7 @@ Las sustancias que serán administradas están en la siguiente tabla:
         <tr>
             <td rowspan="7" align="center">Enojo</td>
             <td align="center">Neutral</td>
-            <td align="center">B</td>
+            <td align="center">NEUTROLINOXONA</td>
         </tr>
         <tr>
             <td align="center">Enojo</td>
@@ -94,24 +94,24 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Miedo</td>
-            <td align="center">W</td>
+            <td align="center">FEAREANEFRINA</td>
         </tr>
         <tr>
             <td align="center">Felicidad</td>
-            <td align="center">AD</td>
+            <td align="center">OXITOACERVEXINA</td>
         </tr>
         <tr>
             <td align="center">Tristeza</td>
-            <td align="center">AK</td>
+            <td align="center">CLOROMETANOXIFINAFLUORIDA</td>
         </tr>
         <tr>
             <td align="center">Sorpresa</td>
-            <td align="center">AR</td>
+            <td align="center">2-10-EMEDIOXINA</td>
         </tr>
         <tr>
             <td rowspan="7" align="center">Asco</td>
             <td align="center">Neutral</td>
-            <td align="center">C</td>
+            <td align="center">NEUTROLINOXONA</td>
         </tr>
         <tr>
             <td align="center">Enojo</td>
@@ -123,7 +123,7 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Miedo</td>
-            <td align="center">X</td>
+            <td align="center">FEAREANEFRINA</td>
         </tr>
         <tr>
             <td align="center">Felicidad</td>
@@ -131,16 +131,16 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Tristeza</td>
-            <td align="center">AL</td>
+            <td align="center">CLOROMETANOXIFINAFLUORIDA</td>
         </tr>
         <tr>
             <td align="center">Sorpresa</td>
-            <td align="center">AS</td>
+            <td align="center">2-10-EMEDIOXINA</td>
         </tr>
         <tr>
             <td rowspan="7" align="center">Miedo</td>
             <td align="center">Neutral</td>
-            <td align="center">D</td>
+            <td align="center">NEUTROLINOXONA</td>
         </tr>
         <tr>
             <td align="center">Enojo</td>
@@ -164,12 +164,12 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Sorpresa</td>
-            <td align="center">AT</td>
+            <td align="center">2-10-EMEDIOXINA</td>
         </tr>
         <tr>
             <td rowspan="7" align="center">Felicidad</td>
             <td align="center">Neutral</td>
-            <td align="center">E</td>
+            <td align="center">NEUTROLINOXONA</td>
         </tr>
         <tr>
             <td align="center">Enojo</td>
@@ -181,7 +181,7 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Miedo</td>
-            <td align="center">Z</td>
+            <td align="center">FEAREANEFRINA</td>
         </tr>
         <tr>
             <td align="center">Felicidad</td>
@@ -193,16 +193,16 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Sorpresa</td>
-            <td align="center">AU</td>
+            <td align="center">2-10-EMEDIOXINA</td>
         </tr>
         <tr>
             <td rowspan="7" align="center">Tristeza</td>
             <td align="center">Neutral</td>
-            <td align="center">F</td>
+            <td align="center">NEUTROLINOXONA</td>
         </tr>
         <tr>
             <td align="center">Enojo</td>
-            <td align="center">M</td>
+            <td align="center">DIMETOVELOCETINA-BUTIL</td>
         </tr>
         <tr>
             <td align="center">Asco</td>
@@ -210,11 +210,11 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Miedo</td>
-            <td align="center">AA</td>
+            <td align="center">DIMETIL-NEPTODEXTROXIDO</td>
         </tr>
         <tr>
             <td align="center">Felicidad</td>
-            <td align="center">AH</td>
+            <td align="center">OXITOACERVEXINA</td>
         </tr>
         <tr>
             <td align="center">Tristeza</td>
@@ -222,16 +222,16 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Sorpresa</td>
-            <td align="center">AV</td>
+            <td align="center">2-10-EMEDIOXINA</td>
         </tr>
         <tr>
             <td rowspan="7" align="center">Sorpresa</td>
             <td align="center">Neutral</td>
-            <td align="center">G</td>
+            <td align="center">NEUTROLINOXONA</td>
         </tr>
         <tr>
             <td align="center">Enojo</td>
-            <td align="center">N</td>
+            <td align="center">SYNTHEISITISEINA</td>
         </tr>
         <tr>
             <td align="center">Asco</td>
@@ -239,16 +239,19 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
         <tr>
             <td align="center">Miedo</td>
-            <td align="center">IRAXCITUR</td>
+            <td align="center">IRAXCITURIOL-AMINA</td>
         </tr>
         <tr>
             <td align="center">Felicidad</td>
-            <td align="center">AI</td>
+            <td align="center">OXITOACERVEXINA</td>
         </tr>
         <tr>
             <td align="center">Tristeza</td>
             <td align="center">OXSOMA-BUTIL</td>
         </tr>
+    </tbody>
+</table>
+
         <tr>
             <td align="center">Sorpresa</td>
             <td align="center">POSTPLACEBO</td>
