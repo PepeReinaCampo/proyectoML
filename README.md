@@ -251,10 +251,3 @@ Las sustancias que serán administradas están en la siguiente tabla:
         </tr>
     </tbody>
 </table>
-
-        <tr>
-            <td align="center">Sorpresa</td>
-            <td align="center">POSTPLACEBO</td>
-        </tr>
-    </tbody>
-</table>
