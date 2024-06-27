@@ -248,6 +248,12 @@ Las sustancias que serán administradas están en la siguiente tabla:
         <tr>
             <td align="center">Tristeza</td>
             <td align="center">OXSOMA-BUTIL</td>
+         </tr>  
+        <tr>
+            <td align="center">Sorpresa</td>
+            <td align="center">POSTPLACEBO</td> 
         </tr>
     </tbody>
 </table>
+
+
