@@ -28,7 +28,7 @@ Por ello el proyecto esta dividido en los siguintes documentos.
   
 -["Data_augmentation_fer2013"](https://github.com/PepeReinaCampo/proyectoML/blob/main/Data_augmentation_fer2013.ipynb): Durante el análisis exploratorio, se observó un desbalance en las distintas clases, lo cual podría suponer un problema debido a las tecnologías de aquella época. Este documento aborda y soluciona dicho problema.  
   
--["Modelos_expresiones"](https://github.com/PepeReinaCampo/proyectoML/blob/main/Data_augmentation_fer2013.ipynb): En este documento se carga el dataset resultante del modelo anterior, se crean los modelos y se evalúan. Además, se incluyen anotaciones y explicaciones para facilitar su comprensión.    
+-["Modelos_expresiones"](https://github.com/PepeReinaCampo/proyectoML/blob/main/Modelos_expresiones.ipynb): En este documento se carga el dataset resultante del modelo anterior, se crean los modelos y se evalúan. Además, se incluyen anotaciones y explicaciones para facilitar su comprensión.    
   
 -["PROMPTS"](https://github.com/PepeReinaCampo/proyectoML/blob/main/PROMPTS.md): La estética y el tiempo son aspectos importantes. Es crucial que los documentos sean atractivos y no resulten densos; por eso, se han añadido imágenes creadas con un servicio de inteligencia artificial de la época. Estas imágenes fueron rescatadas de las bases de datos mencionadas en la idea de negocio. En este documento se muestran los prompts utilizados.   
 
