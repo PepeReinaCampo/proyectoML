@@ -26,7 +26,7 @@ Por ello el proyecto esta dividido en los siguintes documentos.
 
 -["EDA_FER2013"](https://github.com/PepeReinaCampo/proyectoML/blob/main/EDA_FER2013.ipynb):En este documento se realiza un estudio del conjunto de datos principal utilizado para entrenar los modelos y se crean 3 datasets: uno de entrenamiento, otro de validación y otro de prueba.
   
--["Data_augmentation_fer2013"](https://github.com/PepeReinaCampo/proyectoML/blob/main/Data_augmentation_fer2013.ipynb): Durante el análisis exploratorio, se observó un desbalance en las distintas clases, lo cual podría suponer un problema debido a las tecnologías de aquella época. Este documento aborda y soluciona dicho problema, equilibrando las clases en los 3 dataset, generando un unico dataset valanceado.  
+-["Data_augmentation_fer2013"](https://github.com/PepeReinaCampo/proyectoML/blob/main/Data_augmentation_fer2013.ipynb): Durante el análisis exploratorio, se observó un desbalance en las distintas clases, lo cual podría suponer un problema debido a las tecnologías de aquella época. Este documento aborda y soluciona dicho problema, equilibrando las clases en los 3 dataset, generando un unico dataset balanceado.  
   
 -["Modelos_expresiones"](https://github.com/PepeReinaCampo/proyectoML/blob/main/Data_augmentation_fer2013.ipynb): En este documento se carga el dataset resultante del modelo anterior, se crean los modelos y se evalúan. Además, se incluyen anotaciones y explicaciones para facilitar su comprensión.    
   
