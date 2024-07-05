@@ -39,7 +39,7 @@ Por ello el proyecto esta dividido en los siguintes documentos.
 
 >Logotipo de OAI
   
-El programa (los servicios de marketing y comunicación aún no le han dado nombre) que presentamos aquí solicitará introducir la emoción necesaria, e irá estudiando a los individuos que requieran vigilancia. El programa devolverá la emoción detectada y la sustancia que se administrará, pudiendo en una fase inicial requerir supervisión humana.
+***"El programa"*** (los servicios de marketing y comunicación aún no le han dado nombre) que presentamos aquí solicitará introducir la emoción necesaria, e irá estudiando a los individuos que requieran vigilancia. El programa devolverá la emoción detectada y la sustancia que se administrará, pudiendo en una fase inicial requerir supervisión humana.
 
 Esto será solo en una primera fase; cuando el producto entre en producción será completamente autónomo, dependiendo únicamente de las órdenes de la cúpula dirigente de MBE, quienes dictaminarán las emociones necesarias.
 
