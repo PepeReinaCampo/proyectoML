@@ -20,7 +20,9 @@ El ser humano medio no tiene la capacidad de elegir/manejar sus emociones confor
 Para el entrenamiento del modelo que reconoce la emoción se empleará el dataset ["FER-2013 (Facial Expression Recognition 2013)"](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition?select=fer2013.csv), el cual contiene 35,887 imágenes en escala de grises. Las imágenes son fotografías casi exclusivamente de rostros, de tamaño 48x48 píxeles y están etiquetadas con siete emociones: 'Asco', 'Enojo', 'Felicidad', 'Miedo', 'Sorpresa', 'Tristeza' y 'Neutral'. Este dataset fue popular en la comunidad de investigación en reconocimiento de emociones faciales durante la era de ChatGPT, el predecesor del actual 'Pensamiento Descentralizado'.
 
 La cúpula de **OAI** ha ordenado que se explique bien el proyecto, de forma que se facilmente entendible incluso por aquellas persona con poca formacion en ela materia.
-Por ello el proyecto esta dividido en los siguintes documentos.  
+Por ello el proyecto esta dividido en los siguintes documentos. 
+
+--["INSTRUCCIONES"](https://github.com/PepeReinaCampo/proyectoML/blob/main/INSTRUCCIONES.md): Nuestro departamento, siguiendo las órdenes de la cúpula de la OAI, ha creado unas instrucciones para que cualquiera, con algunas nociones en el manejo de datos y programación, pueda recrear ***El programa en casa***.  
   
 -["Idea de negocio"](https://github.com/PepeReinaCampo/proyectoML/blob/main/Idea%20de%20negocio.pptx): En este documento se muestra como planteamos resolver el problema.
 
