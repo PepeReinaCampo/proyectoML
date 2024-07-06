@@ -22,7 +22,7 @@ Para el entrenamiento del modelo que reconoce la emoción se empleará el datase
 La cúpula de **OAI** ha ordenado que se explique bien el proyecto, de forma que se facilmente entendible incluso por aquellas persona con poca formacion en ela materia.
 Por ello el proyecto esta dividido en los siguintes documentos. 
 
---["INSTRUCCIONES"](https://github.com/PepeReinaCampo/proyectoML/blob/main/INSTRUCCIONES.md): Nuestro departamento, siguiendo las órdenes de la cúpula de la OAI, ha creado unas instrucciones para que cualquiera, con algunas nociones en el manejo de datos y programación, pueda recrear ***El programa en casa***.  
+-["INSTRUCCIONES"](https://github.com/PepeReinaCampo/proyectoML/blob/main/INSTRUCCIONES.md): Nuestro departamento, siguiendo las órdenes de la cúpula de la OAI, ha creado unas instrucciones para que cualquiera, con algunas nociones en el manejo de datos y programación, pueda recrear ***El programa en casa***.  
   
 -["Idea de negocio"](https://github.com/PepeReinaCampo/proyectoML/blob/main/Idea%20de%20negocio.pptx): En este documento se muestra como planteamos resolver el problema.
 
